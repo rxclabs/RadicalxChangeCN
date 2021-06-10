@@ -1,0 +1,88 @@
+
+
+@font-face{
+    font-family: 'Pirou';
+    font-display: swap;
+    src : url('../font/Pirou-Regular.ttf') format('truetype');
+    src : url('../font/LeagueSpartan-Bold.woff2') format('woff2'), 
+} 
+
+
+
+
+
+@font-face{
+    font-family: 'LeagueSpartan';
+    font-display: swap;
+    src :     url('../font/LeagueSpartan-Bold.ttf') format('truetype');
+    src : url('../font/LeagueSpartan-Bold.woff2') format('woff2'), 
+
+} 
+
+
+
+@font-face{
+    font-family: 'NotoSansSC-Regular';
+    font-display: swap;
+    src :     url('../font/Noto_Sans_SC/NotoSansSC-Bold.ttf') format('truetype');
+    src : url('../font/Noto_Sans_SC/NotoSansSC-Regular.woff2') format('woff2'), 
+} 
+
+
+@font-face{
+    font-family: 'NotoSansSC-Medium';
+    font-display: swap;
+    src :     url('../font/Noto_Sans_SC/NotoSansSC-Bold.ttf') format('truetype');
+    src : url('../font/Noto_Sans_SC/NotoSansSC-Medium.woff2') format('woff2'), 
+
+}
+
+@font-face{
+    font-family: 'NotoSansSC-Bold';
+    font-display: swap;
+    src :     url('../font/Noto_Sans_SC/NotoSansSC-Bold.ttf') format('truetype');
+    src : url('../font/Noto_Sans_SC/NotoSansSC-Bold.woff2') format('woff2'), 
+
+}
+
+
+
+h2{
+    font-family: "NotoSansSC-Bold" !important;
+}
+
+p{
+    font-family: "NotoSansSC-Regular"  !important;
+    line-height: 2rem;
+}
+
+ul{
+    line-height: 2rem ;
+}
+
+body{
+    font-family: "NotoSansSC-Regular"  !important
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+::selection {
+    background:#fefba0;
+    color:#000;
+}
+
+::-moz-selection {
+    background:#fefba0; 
+    color:#000;
+}
+
+::-webkit-selection {
+    background:#fefba0; 
+    color:#000;
+}
+
