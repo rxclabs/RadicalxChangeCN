@@ -205,7 +205,7 @@ Blaine，前IT咨询从业者，博士毕业于伦敦帝国理工复杂性科学
 
 </div>
 
-报名方式及费用 SPRING
+### 报名方式及费用 SPRING
 
 <center style="font-size:20px">
 活动形式
@@ -244,7 +244,7 @@ Blaine，前IT咨询从业者，博士毕业于伦敦帝国理工复杂性科学
 
 
 
-主办方 sponsor
+### 主办方 sponsor
 
 <center style="font-size:20px">
 706机器学习小组
