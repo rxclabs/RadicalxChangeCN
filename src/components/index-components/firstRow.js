@@ -22,7 +22,7 @@ const FirstRow = ({ data }) => {
       mx="auto"
       px={[0, 0, 0, "30px"]}
       pt={["2vw", "2vw", "3vw", "4.5vw"]}
-      mb="15vw"
+      mb="5.5vw"
     >
       {/* 第一大栏目 */}
       <PseudoBox
@@ -400,12 +400,13 @@ const FirstRow = ({ data }) => {
           </Box>
         </Link>
       </PseudoBox>
+      
       {/* 第5大栏目 */}
 
       <PseudoBox
         w={["100%", "44.6%", "44.6%", "47.6%"]}
         mx="auto"
-        borderBottom="1px solid #eee"
+     
         mb="4vw"
         pb="4vw"
         _hover={{ color: " #6873e5" }}
@@ -490,7 +491,7 @@ const FirstRow = ({ data }) => {
       <PseudoBox
         w={["100%", "44.6%", "44.6%", "47.6%"]}
         mx="auto"
-        borderBottom="1px solid #eee"
+       
         mb="4vw"
         pb="4vw"
         _hover={{ color: " #6873e5" }}
