@@ -1,7 +1,7 @@
 ---
 path: news11
 title: "活动回顾 | 历史与未来，虚拟与现实的乡建新道路"
-date: 2021-06-17
+date: 2021-06-17T02:59:27.380Z
 featuredpost: true
 img: img1.jpg
 authorimg: img1.jpg
