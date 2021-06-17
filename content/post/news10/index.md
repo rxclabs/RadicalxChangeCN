@@ -6,7 +6,7 @@ featuredpost: true
 img: 3.webp
 authorimg: 2.jpeg
 description: “数据社会正在向我们铺开，在享受技术舒适便捷的同时，数据安全和算法却在深入地介入每个人的生活。当新技术开始异化用户和平台的信任，人人都面对着隐私风险和不平衡劳工经济的同时，却也是思考我们的工作、生活与数据社会联结面的恰当契机。”
-tags: research
+tags: news
 author: 小小乌鸦 (706青年空间)
 ---
 
