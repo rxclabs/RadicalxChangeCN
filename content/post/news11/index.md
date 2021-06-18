@@ -1,13 +1,13 @@
 ---
 path: news11
-title: "活动回顾 | 历史与未来，虚拟与现实的乡建新道路"
-date: 2021-06-17T02:59:27.380Z
+title: 活动回顾 | 历史与未来，虚拟与现实的乡建新道路
+date: 2021-06-18T03:05:43.117Z
 featuredpost: true
 img: img1.jpg
 authorimg: img1.jpg
-description: "乡建与虚拟世界的交织，如何实践出一条自由生长张力的道路？"
+description: 乡建与虚拟世界的交织，如何实践出一条自由生长张力的道路？
 tags: news
-author: "iNetworkSociety"
+author: iNetworkSociety
 ---
 
 ![img](img1.jpg)
